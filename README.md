@@ -1,4 +1,20 @@
-## Foundry
+## MERKLE AIRDROP
+
+A simple airdrop contract tha uses merkle proof to airdrop tokens to specified addressed.
+This project is part of the cyfrin upraft smart contract development course.
+
+### Requirements:
+- git
+- foundry
+- make
+
+### Setup
+- git clone
+- cd merkle-airdrop
+- make
+
+### Commands
+Check the [makefike](./Makefile) for command to run
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
@@ -64,3 +80,4 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+`
